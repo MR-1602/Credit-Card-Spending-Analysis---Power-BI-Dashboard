@@ -6,6 +6,8 @@ This project presents an interactive Power BI dashboard analyzing credit card tr
 The dashboard provides insights into customer spending behavior, transaction patterns, and category-based spending.
 
 🖼️ Dashboard Preview
+
+
 ![Dashboard Screenshot](screenshots/dashboard_preview.png)
 
 🔍 Key Insights
