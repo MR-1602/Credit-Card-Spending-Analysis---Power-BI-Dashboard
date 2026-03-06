@@ -46,6 +46,7 @@ The dashboard provides analysis of:
 - Spending by Category
 - Category Distribution
 
-<img width="1296" height="727" alt="Screenshot" src="https://github.com/user-attachments/assets/e9e9d278-f0c4-4891-b0ae-b9a6ff321a80" />
+<img width="1286" height="723" alt="Screenshot" src="https://github.com/user-attachments/assets/6f5a7ab8-2703-4908-b93e-6e85951ef2e5" />
+
 
 Aspiring Data Analyst | Power BI | SQL | Python
