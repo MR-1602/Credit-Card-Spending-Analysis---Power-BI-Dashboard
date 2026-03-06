@@ -27,7 +27,7 @@ The dashboard provides analysis of:
 - Customer spending insights
 - Clean dashboard design
 
-🛠️ Tools Used
+🚀 Skills Demonstrated
 - Power BI
 - DAX
 - Data Visualization
@@ -48,5 +48,5 @@ The dashboard provides analysis of:
 
 <img width="1286" height="723" alt="Screenshot" src="https://github.com/user-attachments/assets/6f5a7ab8-2703-4908-b93e-6e85951ef2e5" />
 
-
-Aspiring Data Analyst | Power BI | SQL | Python
+Monica 
+Aspiring Data Analyst | Power BI | SQL | Python | Data Visualisation 
