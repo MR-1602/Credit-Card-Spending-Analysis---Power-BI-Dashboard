@@ -5,12 +5,8 @@ Interactive Power BI dashboard analyzing credit card transactions, spending patt
 This project presents an interactive Power BI dashboard analyzing credit card transaction data.  
 The dashboard provides insights into customer spending behavior, transaction patterns, and category-based spending.
 
-🖼️ Dashboard Preview
-
-
-![Dashboard Screenshot](screenshots/dashboard_preview.png)
-
 🔍 Key Insights
+
 The dashboard provides analysis of:
 
 - Total spending across transactions
